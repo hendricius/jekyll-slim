@@ -3,6 +3,7 @@
 Thanks to jekyll-haml for inspiration.
 
 * Add slim to your gemfile
+
         gem 'slim'
 
 * Copy the files to your jekyll installation.
